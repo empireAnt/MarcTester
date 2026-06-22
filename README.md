@@ -1,2 +1,2 @@
 # MarcTester
-Automated webapp testing selenium scripts
+Nginx test server
